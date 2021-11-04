@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+
+.hero{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://www.desktopbackground.org/download/1920x1080/2010/10/06/90914_top-forest-tree-nature-wallpaper-images-for-pinterest_2048x1280_h.jpg);
+}
+ .hero-content{
+    background-color: rgba(0, 0, 0, 0.29);
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    left: 64px;
+    bottom: 50%;
+    margin-bottom: -150px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border-radius: 30px;
+}
+.content{
+    width: 100vw;
+    height: 300vh;
+    
+}
+ .button{
+     width: 110px;
+     height: 50px;
+     background-color: white;
+     color: black;
+     border-radius: 5px;
+     font-size: 18px;
+     font-family:Arial, Helvetica, sans-serif
+
+ }
